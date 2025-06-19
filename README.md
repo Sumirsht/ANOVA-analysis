@@ -4,47 +4,26 @@ This R script performs analysis of variance (ANOVA) to investigate whether soil 
 
 📋 Features
 Performs one-way ANOVA on SOC values across soil depths.
-
 Tests ANOVA assumptions including Levene's test for homogeneity of variances.
-
 Conducts post-hoc tests:
-
 Fisher's Least Significant Difference (LSD)
-
 Tukey’s HSD
-
 Pairwise t-tests with multiple comparison corrections (Bonferroni, BH).
 
-Visualizes:
-
+📈 Visualizes:
 Boxplots and histograms of SOC distribution.
-
 LSD group comparison via grouped bar charts.
-
 Clean, commented R code ideal for teaching, demonstration, or extension.
 
 📦 Dependencies
 tidyverse
-
 car
-
 pastecs
-
 multcomp
-
 agricolae
-
 sjstats
-
 tibble
-
-📈 Example Output
-Boxplot of SOC across depth classes
-
-LSD group comparison bar chart with labels
-
-Summary statistics and ANOVA table
 
 👨‍💻 Author
 Developed by Sumir Shrestha
-🔗 Connect on ResearchGate
+https://www.linkedin.com/in/sumir-shrestha456/

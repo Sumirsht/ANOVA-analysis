@@ -1,5 +1,6 @@
 # ANOVA-analysis
 🔬 ANOVA on Soil Organic Carbon (SOC) by Soil Depth
+
 This R script performs analysis of variance (ANOVA) to investigate whether soil organic carbon (SOC) significantly differs across three soil depth classes: 0–20 cm, 20–30 cm, and 30–40 cm. It includes assumption checks, post-hoc comparisons, and visualizations to interpret the results.
 
 📋 Features
